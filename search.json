@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tony’s Portfolio",
+    "section": "",
+    "text": "Tony Xiang\n\n\nAbout Projects Contact\n\n\n\n\nAbout Me\n\n\n\nHello! I’m a graduate student from Boston University.\n\n\n\n\nProjects\n\n\n&lt;h3&gt;Project One&lt;/h3&gt;\n&lt;p&gt;Description of your project. You can link it to GitHub or live demo.&lt;/p&gt;\n\n\n&lt;h3&gt;Project Two&lt;/h3&gt;\n&lt;p&gt;Another cool thing you built. Highlight your skills.&lt;/p&gt;\n\n\n\n\nContact\n\n\nEmail: your@email.com\n\n\nLinkedIn: yourname\n\n\n\n\n© 2025 Panyang Xiang. All rights reserved."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

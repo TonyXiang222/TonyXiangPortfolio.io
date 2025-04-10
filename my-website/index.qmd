@@ -16,7 +16,7 @@ page-layout: full
 
 <section id="about">
   <h2>About Me</h2>
-  <img src="profile.jpg" alt="Tony's photo" class="profile-img" />
+  <img src="images/profile.jpg" alt="Tony's photo" class="profile-img" />
   <p>Hello! I’m a graduate student from Boston University.</p>
 </section>
 
